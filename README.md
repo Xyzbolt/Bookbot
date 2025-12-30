@@ -1,3 +1,3 @@
 # Bookbot
-a bookbot for counting word usage (a first project in a while)
+a bookbot for counting word usage (a boot.dev project)
 built in python
